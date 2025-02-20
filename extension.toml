@@ -1,0 +1,7 @@
+id = "material-icon-theme-v2"
+name = "Material Icon Theme v2"
+version = "0.1.0"
+schema_version = 1
+authors = ["Navneet Lal Gupta <navneetlalg@gmail.com>"]
+description = "Material Design icons."
+repository = "https://github.com/navneetlalg/material-icon-theme-v2"
